@@ -25,6 +25,8 @@ Create a Key Vault<img width="1466" alt="Screenshot 2024-05-11 at 8 07 11 PM" 
 Create a Key
 <img width="1438" alt="Screenshot 2024-05-12 at 11 51 26 PM" src="https://github.com/Hunter102002/Key-Rotation-Azure-Key-Valut/assets/98543129/63098cd8-e320-458b-886b-fe029160135e">
 
-Create a rotation policy<img width="572" alt="Screenshot 2024-05-12 at 11 52 17 PM" src="https://github.com/Hunter102002/Key-Rotation-Azure-Key-Valut/assets/98543129/3501d319-4e30-4530-8acb-9d99041607cc">
+Create a rotation policy
+
+<img width="572" alt="Screenshot 2024-05-12 at 11 52 17 PM" src="https://github.com/Hunter102002/Key-Rotation-Azure-Key-Valut/assets/98543129/3501d319-4e30-4530-8acb-9d99041607cc">
 
 
